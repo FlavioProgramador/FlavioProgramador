@@ -1,31 +1,53 @@
-## Olá! Eu sou o Flávio! Bem-Vindo(a) ao meu perfil! 👋
+# Olá! Eu sou o Flávio! 👋
 
-🌱 Atualmente estou aprendendo: Aperfeiçoando minhas habilidades em programação orientada a objetos (POO) com Python, além de aprender mais sobre HTML, CSS e MySQL para aprimorar o desenvolvimento web e a gestão de bancos de dados.
+## 👨‍💻 Desenvolvedor Full Stack | Python & React
 
-📫 Como me encontrar: Pode me encontrar no [GitHub](github.com/FlavioProgramador) ou enviar um e-mail para flavionegocios2004@gmail.com.
+Seja bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, **Técnico em Desenvolvimento de Sistemas formado pelo FIRJAN SENAI** e atuando como **Jovem Aprendiz em TI na Dress to**.
 
-😄 Pronomes: Ele/Dele.
+Minha especialidade é conectar a robustez do **Backend (Django/Python)** com a dinamicidade do **Frontend (React)**, criando aplicações escaláveis e modernas.
 
-![FlavioProgramador GitHub stats](https://github-readme-stats.vercel.app/api?username=FlavioProgramador&show_icons=true&theme=dracula)
+---
 
-##
+### 🚀 Sobre mim
 
-<div style="display: inline_block" align="inline-block"><br>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+* 🔭 **Atualmente:** Trabalho com manutenção de sistemas internos (PHP/SQL) e automação de processos na Dress to.
+* 🌱 **Foco de Estudos:** Especializando-me na stack **React** (Frontend), **Django** (Backend) e **Docker** para containerização.
+* 💼 **Objetivo:** Atuar como Desenvolvedor Full Stack, criando soluções que integram eficiência de dados e excelente experiência do usuário.
+* ⚡ **Curiosidade:** Adoro transformar problemas complexos em código limpo e eficiente.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Redis" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-  ##
+<br>
 
-  <div> 
-  
-  <a href="https://www.instagram.com/flavimm_fl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "flavionegocios2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/flavio-costa-706846245/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+---
+
+### 📫 Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/flavio-costa-8aaa71377" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:flavionegocios2004@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-
-
