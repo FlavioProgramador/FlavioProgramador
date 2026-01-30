@@ -10,6 +10,7 @@ Minha especialidade é conectar a robustez do **Backend (Django/Python)** com a 
 
 ### 🚀 Sobre mim
 
+* 🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas** na **UNIASSELVI**.
 * 🔭 **Atualmente:** Trabalho com manutenção de sistemas internos (PHP/SQL) e automação de processos na Dress to.
 * 🌱 **Foco de Estudos:** Especializando-me na stack **React** (Frontend), **Django** (Backend) e **Docker** para containerização.
 * 💼 **Objetivo:** Atuar como Desenvolvedor Full Stack, criando soluções que integram eficiência de dados e excelente experiência do usuário.
