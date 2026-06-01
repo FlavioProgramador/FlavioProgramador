@@ -7,7 +7,7 @@ Desenvolvedor focado em substituir processos operacionais manuais por arquitetur
 
 ### 🚀 Foco e Impacto Recente
 
-*   **Liderança de Projeto:** Desenvolvedor Principal e coordenador da equipe do *Sim, Aceito*, sistema de gestão construído em **Python (Django)** e **PostgreSQL**, com uso estratégico de **HTMX** para reatividade sem overhead de frameworks SPA.
+*   **Liderança de Projeto:** Desenvolvedor e coordenador da equipe do *Sim, Aceito*, sistema de gestão construído em **Python (Django)** e **PostgreSQL**, com uso estratégico de **HTMX** para reatividade sem overhead de frameworks SPA.
 *   **Automação Corporativa:** Redução de 75% no tempo de processamento operacional de dados fiscais na Dress To, desenvolvendo aplicações web integradas diretamente a bases de dados em **SQL Server**.
 *   **Educação:** Técnico em Desenvolvimento de Sistemas (Firjan SENAI) | Graduando em Análise e Desenvolvimento de Sistemas (UNIASSELVI - 2028).
 
