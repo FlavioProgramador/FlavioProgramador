@@ -1,44 +1,35 @@
-# Flávio Marques
-**Full Stack Developer | Integração de Dados & Automação**
+# Flávio da Costa Marques
+**Backend Engineer | Arquitetura de Dados & Automação**
 
-Desenvolvedor focado em substituir processos operacionais manuais por arquiteturas web escaláveis. Experiência prática em automação de fluxos de dados e liderança técnica de equipes em nível de desenvolvimento de projeto.
-
----
-
-### 🚀 Foco e Impacto Recente
-
-*   **Liderança de Projeto:** Desenvolvedor e coordenador da equipe do *Sim, Aceito*, sistema de gestão construído em **Python (Django)** e **PostgreSQL**, com uso estratégico de **HTMX** para reatividade sem overhead de frameworks SPA.
-*   **Automação Corporativa:** Redução de 75% no tempo de processamento operacional de dados fiscais na Dress To, desenvolvendo aplicações web integradas diretamente a bases de dados em **SQL Server**.
-*   **Educação:** Técnico em Desenvolvimento de Sistemas (Firjan SENAI) | Graduando em Análise e Desenvolvimento de Sistemas (UNIASSELVI - 2028).
+Engenheiro de software focado em projetar arquiteturas backend escaláveis e substituir processos operacionais manuais por integrações inteligentes e robustas. Especialista em modelagem de dados relacional e entrega de valor de negócio através de automação corporativa.
 
 ---
 
-### 🛠️ Core Stack & Ferramentas
+### 🚀 Engenharia & Impacto nos Negócios
 
-**Backend:**
+*   **Arquitetura SaaS (Sim, Aceito):** Arquiteto e desenvolvedor principal de uma plataforma complexa de gestão de eventos. Modelagem de dados avançada em **PostgreSQL** para interligar contratos, orçamentos e cronogramas. Backend construído em **Python (Django)** com deploy em **Docker**, utilizando **HTMX** para garantir alta performance e reatividade sem o overhead de frameworks SPA pesados.
+*   **Automação Corporativa (Dress To):** Engenharia de fluxos de dados fiscais integrados diretamente a bases **SQL Server**. A solução arquitetada reduziu o tempo de processamento operacional em 75%, eliminando gargalos manuais e garantindo integridade transacional.
+
+---
+
+### 🛠️ Core Stack (Backend & Dados)
+
 <div style="display: flex; gap: 10px;">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-</div>
-
-**Frontend:**
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-
-**Banco de Dados & Versionamento:**
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div>
+
+<br>
+
+**Tecnologias de Apoio & Frontend:**
+`Next.js` | `TypeScript` | `React.js` | `Git`
 
 ---
 
-### 📫 Contato
+### 📫 Contato & Links
 
 <div align="left">
   <a href="https://www.linkedin.com/in/flavio-costa-8aaa71377" target="_blank">
