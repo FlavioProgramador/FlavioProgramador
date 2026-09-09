@@ -1,36 +1,35 @@
 # Flávio da Costa Marques
-**Backend Developer | Arquitetura de Dados & Automação**
+**Desenvolvedor Full Stack & Backend | Python, Django & Banco de Dados**
 
-Desenvolvedor Backend focado em projetar arquiteturas escaláveis e substituir processos operacionais manuais por integrações inteligentes e automatizadas. Atuação forte em modelagem de dados relacional e entrega de valor de negócio através de automação corporativa.
+Desenvolvedor focado em projetar arquiteturas escaláveis em Python/Django e substituir processos operacionais manuais por integrações inteligentes e automatizadas. Atuação forte em modelagem de dados relacional (PostgreSQL/SQL Server) e entrega de valor de negócio conectada a interfaces modernas (React/Next.js).
 
 ---
 
-### 🚀 Projetos & Impacto nos Negócios
+### 🚀 Projetos & Engenharia de Software
 
-*   **Elo Terapêutico — SaaS para Gestão de Clínicas** *(projeto pessoal em desenvolvimento)*
-    Backend Developer & Full Stack Developer. Arquitetura modular em **Django REST Framework** e **PostgreSQL**, com prontuários eletrônicos, gestão de pacientes e módulo financeiro. Autenticação JWT, controle de permissões, criptografia de dados sensíveis e documentação automática via OpenAPI/Swagger. Frontend em **Next.js**.
+*   **Elo Terapêutico — SaaS para Gestão de Clínicas** 
+    Arquitetura backend em **Django REST Framework** e **PostgreSQL**, estruturando entidades e relacionamentos para módulos de prontuários, pacientes, financeiro e formulários. Implementação de autenticação JWT, controle granular de permissões e documentação automática via OpenAPI/Swagger, com consumo da API no frontend em **Next.js**.
 
-*   **Sim, Aceito — SaaS de Gestão de Eventos** *(projeto integrador do curso Técnico em Desenvolvimento de Sistemas)*
-    Full Stack Developer & Tech Lead. Modelagem de banco de dados relacional em **PostgreSQL** para contratos, orçamentos, fornecedores e cronogramas. Backend em **Django**, deploy em **Docker** e frontend com **Next.js** e **HTMX**, priorizando performance e simplicidade de renderização.
+*   **Sim, Aceito — SaaS de Gestão de Eventos** 
+    Desenvolvedor Principal. Modelagem de banco de dados relacional de domínios interdependentes em **PostgreSQL**, mapeando e estruturando entidades core da aplicação (`Wedding`, `Budget`, `Client`, `Contract`, `Item`, `Supplier`). Construção de APIs REST no **Django** com validação rigorosa via formulários customizados (`BudgetForm`, `WeddingForm`) para sustentar as regras de negócio e dependência financeira.
 
 *   **Automação Corporativa (Dress To)**
-    Engenharia de fluxos de dados fiscais com **Power Automate**, integrados a bases **SQL Server** — incluindo uma planilha 100% automatizada que sinaliza o envio de notas fiscais de fornecedores. Reduziu em ~75% o tempo de processamento operacional, eliminando erros e gargalos manuais.
+    Engenharia de fluxos de dados fiscais com **Power Automate**, integrados a bases **SQL Server** — incluindo uma planilha 100% automatizada para identificação do envio de notas fiscais de fornecedores. Redução de aproximadamente 75% no tempo de processamento operacional, eliminando rotinas e lançamentos manuais.
 
 ---
 
-### 🛠️ Core Stack (Backend & Dados)
+### 🛠️ Stack Tecnológico (Backend & Dados)
 
 <div style="display: flex; gap: 10px;">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQL Server" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div>
 <br>
 
-**Tecnologias de Apoio & Frontend:**
-`Next.js` | `React.js` | `TypeScript` | `HTMX` | `Git` | `GitHub`
+**Ecossistema Frontend & Ferramentas:**
+`Next.js` | `React` | `TypeScript` | `Git` | `GitHub`
 
 ---
 
