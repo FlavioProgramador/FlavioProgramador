@@ -1,94 +1,71 @@
 # Olá, eu sou o Flávio 👋
 
-**Desenvolvedor Backend Júnior (Python/Django) · Full Stack com Next.js**
-📍 São Gonçalo, RJ · Técnico em Desenvolvimento de Sistemas · Graduando em Análise e Desenvolvimento de Sistemas
+**Desenvolvedor de Software Júnior | Backend com Python/Django · Full Stack com React/Next.js**
 
-Transformo processos manuais em sistemas confiáveis: APIs REST com Django/DRF, modelagem relacional em PostgreSQL e SQL Server e, quando o projeto pede ponta a ponta, interfaces em Next.js, React e TypeScript.
+São Gonçalo, RJ · Graduando em Análise e Desenvolvimento de Sistemas (UNIASSELVI, previsão: jul/2028) · Técnico em Desenvolvimento de Sistemas (SENAI, 2025)
 
----
+Desenvolvo aplicações web e sistemas internos com foco em regras de negócio, APIs REST, integrações e dados. Tenho experiência em TI corporativa e construo projetos com Python, Django REST Framework, PostgreSQL, React, Next.js e TypeScript.
 
-### 🔭 Em foco agora
-
-- 🏥 Evoluindo o **Elo Terapêutico**, um SaaS de gestão de clínicas
-- 🐹 Estudando **Go** na prática, construindo aplicações para evoluir na linguagem
-- 🤖 Aprofundando **IA aplicada ao desenvolvimento**: LLMs, OpenAI API, embeddings e RAG
+[LinkedIn](https://www.linkedin.com/in/flavio-developer/) · [Portfólio](https://flavio-dev.vercel.app/) · [E-mail](mailto:flavionegocios2004@gmail.com)
 
 ---
 
-### 🚀 Projetos
+## Projetos em destaque
 
-**🏥 Elo Terapêutico: SaaS para Gestão de Clínicas** · *2026 – atual*
-Backend em **Django REST Framework** e **PostgreSQL** com módulos de pacientes, prontuários, financeiro, documentos e formulários.
-- Autenticação **JWT** e controle de acesso por perfil
-- API documentada com **OpenAPI/Swagger**
-- Proteção de dados sensíveis de saúde: criptografia, logs de acesso e adequação à **LGPD**
-- Integridade referencial e operações transacionais seguras entre os módulos
+### 🏥 Elo Terapêutico — Gestão clínica
+**Django REST Framework · PostgreSQL · Next.js · TypeScript · Celery · Redis**
 
-**💍 Sim, Aceito: SaaS de Gestão de Casamentos** · *concluído em dez/2025*
-Fluxo ponta a ponta com **PostgreSQL, Django/DRF e Next.js**: orçamentos, contratos, fornecedores e cronograma.
-- 8 entidades interdependentes (`Wedding`, `Budget`, `Client`, `Contract`, `Item`, `Schedule`, `Supplier`, `Planner`)
-- Vínculo financeiro entre orçamento e contrato
-- Validação de dados no backend e controle de acesso por usuário
+Plataforma em desenvolvimento para centralizar rotinas clínicas e administrativas. A base inclui módulos para agenda, pacientes, documentos, formulários, comunicações e financeiro. **Status: desenvolvimento ativo/pré-produção**; integrações externas e controles operacionais ainda precisam de validação antes do uso com dados clínicos reais.
 
-**🌦️ MeteoHub**
-Interface em **React e TypeScript** com gestão de estado assíncrono para consumir APIs externas e camada de acesso a dados com **Prisma**.
+[Ver repositório](https://github.com/FlavioProgramador/EloTerapeutico)
 
----
+### 💍 Sim, Aceito — Gestão de casamentos
+**Python · Django · Django REST Framework · PostgreSQL · HTMX · Bootstrap · Celery · Redis**
 
-### 💼 Experiência em destaque: Dress To (Jovem Aprendiz em TI, mar/2025 – set/2026)
+Sistema web para apoiar a gestão de casamentos, com módulos de orçamentos, contratos, itens e agendamentos. Inclui cálculos financeiros com precisão decimal e geração de PDFs com QR Code e hash SHA-256.
 
-- ⚙️ **Automação com Power Automate** para rastrear notas fiscais: **−75% no tempo operacional** e fim dos lançamentos manuais
-- 📦 **Sistema de Gestão de Ativos** (Django, SQL Server e Next.js): movimentação, auditoria e rastreabilidade de equipamentos
-- ✍️ **Sistema de Assinatura de Termos**: regras de negócio, persistência, controle de status e rastreabilidade
-- 🗄️ Queries em **SQL Server** para extração, validação e consolidação de dados em rotinas e relatórios
+[Ver repositório](https://github.com/FlavioProgramador/Sim-Aceito-Wedding-Management)
 
----
+### 🌦️ MeteoHUB — Dashboard meteorológico
+**React · TypeScript · Vite · APIs externas**
 
-### 🛠️ Stack
+Interface para consultar condições meteorológicas e explorar informações de localização, com recursos visuais responsivos e dados provenientes de serviços externos.
 
-**Backend e dados**
+[Ver repositório](https://github.com/FlavioProgramador/MeteoHUB)
 
-<p align="left">
-  <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img alt="Supabase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
-</p>
+### 🧾 Automação e sistemas internos
+**Power Automate · SQL Server · Django · Next.js**
 
-**Frontend e ferramentas**
-
-<p align="left">
-  <img alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</p>
-
-**Também no radar:** `Go` (aprendendo) · `Prisma` · `Power Automate` · `OpenAPI/Swagger` · `JWT` · `OpenAI API` · `RAG`
+Na experiência em TI corporativa, participei de uma automação fiscal associada à redução de aproximadamente 75% no tempo operacional, além de trabalhar com consultas SQL Server e sistemas internos de controle de notas, ativos e termos.
 
 ---
 
-### 🎓 Formação e certificações
+## Tecnologias
 
-- Análise e Desenvolvimento de Sistemas, UNIASSELVI (previsão: jul/2028)
-- Técnico em Desenvolvimento de Sistemas, Firjan SENAI São Gonçalo (concluído em dez/2025)
-- 🏅 **AI Engineer for Developers Associate**, DataCamp (jun/2026)
-- 🏅 **Python Data Associate**, DataCamp (jun/2026)
+- **Backend:** Python, Django, Django REST Framework, Node.js, Express, APIs REST
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Bootstrap
+- **Dados:** PostgreSQL, SQL Server, SQL, Prisma
+- **Processamento e ferramentas:** Celery, Redis, Git, GitHub, Docker
+- **Em aprendizado:** Go e aplicações com IA
 
 ---
 
-### 📫 Contato
+## Formação e certificações
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/flavio-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:flavionegocios2004@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://flavio-dev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
-  </a>
-</p>
+- Análise e Desenvolvimento de Sistemas — UNIASSELVI (previsão: jul/2028)
+- Técnico em Desenvolvimento de Sistemas — SENAI FIRJAN São Gonçalo (dez/2025)
+- AI Engineer for Developers Associate — DataCamp (jun/2026)
+- Python Data Associate — DataCamp (jun/2026)
+- Engenharia de Software — FIAP (fev/2026)
+- Inteligência Artificial e Computacional — FIAP (80 horas, mai/2026)
+- Gestão Ágil de Projetos — SENAI (fev/2025)
+- Análise e Projeto de Sistemas Computacionais — UNIASSELVI (fev/2026)
+- Fundamentos de UX Research — SENAI (ago/2026)
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/flavio-developer/
+- Portfólio: https://flavio-dev.vercel.app/
+- E-mail: flavionegocios2004@gmail.com
